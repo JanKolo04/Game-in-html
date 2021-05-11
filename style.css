@@ -1,0 +1,21 @@
+button {
+	position: relative;
+  	text-align: center;
+  	margin-top: 425px;
+	background-color: black;
+	border: none;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.napis {
+	position: relative;
+  	text-align: center;
+  	margin-top: 300px;
+
+}
+
+body {
+	background-size: cover;
+	background-image: url("image/tlo.gif");
+}
