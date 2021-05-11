@@ -14,5 +14,6 @@ Qeuestions is in Polish leanguage beacouse i make this game to school maybe in f
 The things that I will give will improve:
 - add more questions 
 - make better interface (make button to all resolutions)
+- add on host and everyone can open this game whitout download many files
 
 I never before programming in html/css/js so dont hate me for weak code 
