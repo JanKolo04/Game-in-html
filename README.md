@@ -3,7 +3,8 @@
 I make quizz in html about programing
 
 This is menu whence we will go to game 
-![menu-img](https://user-images.githubusercontent.com/76879087/117875960-12d08180-b2a3-11eb-9579-cf0c3955a7d2.png)
+
+![Zrzut ekranu 2021-05-17 o 23 58 33](https://user-images.githubusercontent.com/76879087/118562011-39dbf700-b76c-11eb-9b50-a9e9fce51137.png)
 
 Photo in menu is a gif so if you open this on your PC/MAC
 
