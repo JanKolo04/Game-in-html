@@ -1,10 +1,22 @@
-#button {
-	position: relative;
-  	text-align: center;
-  	margin-top: 405px;
-  	left: 780px;
-	background-color: black;
-	border: none;
+.container { 
+  height: 200px;
+  position: relative;
+  border: none;
+}
+
+.center {
+  border: none;
+  background-color: black;
+  color: white;
+  padding: 15px 125px;
+  margin: 0;
+  position: absolute;
+  top: 205%;
+  left: 50%;
+  display: inline-block;
+  font-size: 16px;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 .napis {
@@ -17,4 +29,6 @@
 body {
 	background-size: cover;
 	background-image: url("image/tlo.gif");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
