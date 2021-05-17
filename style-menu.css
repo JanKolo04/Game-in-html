@@ -1,29 +1,13 @@
-.container { 
-  height: 200px;
-  position: relative;
-  border: none;
-}
-
-.center {
-  border: none;
-  background-color: black;
-  color: white;
-  padding: 15px 125px;
-  margin: 0;
-  position: absolute;
-  top: 205%;
-  left: 50%;
-  display: inline-block;
-  font-size: 16px;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-
 .napis {
 	position: relative;
   	text-align: center;
   	margin-top: 300px;
+  	font-size: 30px;
+}
 
+a:hover, a:visited, a:link, a:active {
+	color: black;
+  	text-decoration: none;
 }
 
 body {
