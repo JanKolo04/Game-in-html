@@ -1,3 +1,4 @@
+/*questions*/
 .question{
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 50px;
@@ -7,6 +8,8 @@
   margin-bottom: 10px;
   color: white;
 }
+
+/*answers*/
 .answers {
   font-size: 25px;
   margin-bottom: 20px;
@@ -14,25 +17,32 @@
   display: inline-block;
   color: white;
 }
+
+/*arranging questions*/
 .answers label{
   display: block;
   margin-bottom: 10px;
 }
+
+/*Buttons*/
 button{
   font-family: 'Work Sans', sans-serif;
-	font-size: 22px;
-	background-color: green;
-	color: #fff;
-	border: 0px;
-	border-radius: 3px;
-	padding: 20px;
-	cursor: pointer;
-	margin-bottom: 20px;
-}
-button:hover{
-	background-color: #38a;
+  font-size: 22px;
+  background-color: green;
+  color: #fff;
+  border: 0px;
+  border-radius: 3px;
+  padding: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
 }
 
+/*Buttons color after hover*/
+button:hover{
+  background-color: #38a;
+}
+
+/*next quesiotn*/
 .slide{
   position: absolute;
   left: 0px;
@@ -52,19 +62,20 @@ button:hover{
   margin-top: 40px;
 }
 
+/*score*/
 #results {
   font-size: 30px;
   color: blue;
 }
 
 body{
-	  font-size: 20px;
-	  font-family: 'Work Sans', sans-serif;
-	  color: #333;
-  	font-weight: 300;
-  	text-align: center;
-  	background-image: url("image/tlo_rozpoczecie.png");
-  	background-size: cover;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+    color: #333;
+    font-weight: 300;
+    text-align: center;
+    background-image: url("image/tlo_rozpoczecie.png");
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }

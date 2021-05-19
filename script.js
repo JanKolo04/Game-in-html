@@ -59,12 +59,12 @@
         // add to the number of correct answers
         numCorrect++;
 
-        // color the answers green
+        // correct answers change color on lightgreen
         answerContainers[questionNumber].style.color = 'lightgreen';
       }
       // if answer is wrong or blank
       else{
-        // color the answers red
+        // incorrect answers change color on red
         answerContainers[questionNumber].style.color = 'red';
       }
     });
@@ -107,6 +107,7 @@
   const submitButton = document.getElementById('submit');
   const myQuestions = [
     {
+      // questions 1
       question: "Jaki jest najnowszy system operacyjny od firmy Microsoft ?",
       answers: {
         a: "Windows 10",
@@ -116,32 +117,94 @@
       correctAnswer: "c"
     },
     {
-      question: "W jakim języku został napisany kod ?",
+      // questions 2
+      question: "Co to jest div ?",
       answers: {
-        a: "Node.js",
-        b: "TypeScript",
-        c: "npm"
+        a: "Jest to pojemnik na informacje",
+        b: "Miejscie gdzie linkujemy css",
+        c: "Miejsce gdzie ustawaimy UTF-8"
+      },
+      correctAnswer: "a"
+    },
+    {
+      // questions 3
+      question: "Jakim poleceniem pokaże nam się teskt 'Helllo' w Pythonie ?",
+      answers: {
+        a: "printf('Hello')",
+        b: "print('Hello')",
+        c: "println('Hello')"
+      },
+      correctAnswer: "b"
+    },
+    {
+      // questions 4
+      question: "Jak oznaczamy funkcje main w Pythonie ?",
+      answers: {
+        a: "class main():",
+        b: "def main():",
+        c: ".main{}"
+      },
+      correctAnswer: "b"
+    },
+    {
+      // questions 5
+      question: "Za pomoca jakiej komendy wusrodkujemy tekst w css ?",
+      answers: {
+        a: "text-algin: center;",
+        b: "position: absolute",
+        c: "margin-top: 20%;"
+      },
+      correctAnswer: "a"
+    },
+    {
+      // question 6
+      question: "Kto Stworzył jądro Linux ?",
+      answers: {
+        a: "Bill Gates",
+        b: "Steve Jobs",
+        c: "Linus Torvalds"
       },
       correctAnswer: "c"
     },
     {
-      question: "W jakim języku został napisany kod ?",
+      // questions 7
+      question: "Za co odpowiada SSH ?",
       answers: {
-        a: "Angular",
-        b: "jQuery",
-        c: "RequireJS",
-        d: "ESLint"
+        a: "Jest to bezpieczne połączenie z serverem",
+        b: "Za hego pomoca można wyrzucić pliki na server",
+        c: "Zmieniamy hasło do servera"
       },
-      correctAnswer: "d"
+      correctAnswer: "a"
     },
     {
-    	question: "W jakim języku został napisany kod ?",
-    	answers: {
-    		a: "C++",
-    		b: "HTML",
-    		c: "PYTHON"
-    	},
-    	correctAnswer: "c"
+      // questions 8
+      question: "Jaki jest obecnie najpopularniejszy język programowania ?",
+      answers: {
+        a: "Python",
+        b: "C++",
+        c: "Swift"
+      },
+      correctAnswer: "a"
+    },
+    {
+      // question 9
+      question: "Za co odpowiada Meta ?",
+      answers: {
+        a: "Do przekazywania informacji o stronie wyszukiwarce",
+        b: "Do linkowania JS",
+        c: "Do zmiany tła strony"
+      },
+      correctAnswer: "a"
+    },
+    {
+      // question 10
+      question: "Jak odniesiemy sie do obiektu <div class='button'></div>",
+      answers: {
+        a: ".button {}",
+        b: "#button {}",
+        c: "div#button {}"
+      },
+      correctAnswer: "a"
     }
   ];
 
