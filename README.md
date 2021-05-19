@@ -18,4 +18,3 @@ The things that I will give will improve:
 - add on host and everyone can open this game whitout download many files
 
 I never before programming in html/css/js so dont hate me for weak code 
-
