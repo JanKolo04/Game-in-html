@@ -2,6 +2,8 @@
 
 I make quizz in html about programing
 
+First step you must run menu.html beacouse this is first file
+
 This is menu whence we will go to game 
 
 ![Zrzut ekranu 2021-05-17 o 23 58 33](https://user-images.githubusercontent.com/76879087/118562011-39dbf700-b76c-11eb-9b50-a9e9fce51137.png)
