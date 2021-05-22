@@ -1,4 +1,4 @@
-# Game-in-html
+# Quiz-in-html
 
 I make quizz in html about programing
 
