@@ -128,7 +128,7 @@
     },
     {
       // questions 3
-      question: "Jakim poleceniem pokaże nam się teskt 'Helllo' w Pythonie ?",
+      question: "Jakim poleceniem pokaże nam się teskt 'Hello' w Pythonie ?",
       answers: {
         a: "printf('Hello')",
         b: "print('Hello')",
@@ -148,7 +148,7 @@
     },
     {
       // questions 5
-      question: "Za pomoca jakiej komendy wusrodkujemy tekst w css ?",
+      question: "Za pomoca jakiej komendy wyśrodkujemy tekst w css ?",
       answers: {
         a: "text-algin: center;",
         b: "position: absolute",
@@ -171,7 +171,7 @@
       question: "Za co odpowiada SSH ?",
       answers: {
         a: "Jest to bezpieczne połączenie z serverem",
-        b: "Za hego pomoca można wyrzucić pliki na server",
+        b: "Za jego pomoca można wyrzucić pliki na server",
         c: "Zmieniamy hasło do servera"
       },
       correctAnswer: "a"
