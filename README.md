@@ -14,5 +14,5 @@ Photo in menu is a gif so if you open this on your PC/MAC
 
 Qeuestions is in Polish leanguage beacouse i make this game to school maybe in future i change this
 
-If you dont want download all files you can open in browser
+If you dont want download all files you can open in browser. I host a website on Github and it is a really nice feature from Github
 https://jankolo04.github.io/quizforcoders.github.io/
