@@ -114,7 +114,7 @@
         b: "Windows 9",
         c: "Widnows 8"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
     {
       // questions 2
@@ -198,13 +198,13 @@
     },
     {
       // question 10
-      question: "Jak odniesiemy sie do obiektu <div class='button'></div>",
+      question: "Jak nazywa sie najnowsza wersja macOS ?",
       answers: {
-        a: ".button {}",
-        b: "#button {}",
-        c: "div#button {}"
+        a: "Catalina",
+        b: "BigSurr",
+        c: "Debian"
       },
-      correctAnswer: "a"
+      correctAnswer: "b"
     }
   ];
 
