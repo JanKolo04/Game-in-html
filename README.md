@@ -16,3 +16,7 @@ Qeuestions is in Polish leanguage beacouse i make this game to school maybe in f
 
 If you dont want download all files you can open in browser. I host a website on Github and it is a really nice feature from Github
 https://jankolo04.github.io/quizforcoders.github.io/
+
+TO DO:
+- make retro font inscription in menu 
+- add database to beter development 
