@@ -150,7 +150,7 @@
       // questions 5
       question: "Za pomoca jakiej komendy wyśrodkujemy tekst w css ?",
       answers: {
-        a: "text-algin: center;",
+        a: "text-align: center;",
         b: "position: absolute",
         c: "margin-top: 20%;"
       },
