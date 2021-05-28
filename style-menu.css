@@ -19,7 +19,7 @@ a:hover, a:visited, a:link, a:active {
 
 body {
 	background-size: cover;
-	background-image: url("image/backgroundImage.gif");
+	background-image: url("image/tlo.gif");
 	background-repeat: no-repeat;
     background-attachment: fixed;
 }
