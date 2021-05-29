@@ -1,8 +1,3 @@
-@font-face {
-    font-family: Bauhaus93;
-	src: url(image/bauhaus-93/BAUH93.ttf);
-}
-
 /*hiperlink*/
 .napis {
 	font-family: Bauhaus93;
@@ -18,7 +13,7 @@ a:hover, a:visited, a:link, a:active {
 }
 
 body {
-	background-size: cover;
+	background-size: 100% 100%;
 	background-image: url("image/tlo.gif");
 	background-repeat: no-repeat;
     background-attachment: fixed;
