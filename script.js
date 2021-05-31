@@ -148,7 +148,7 @@
     },
     {
       // questions 5
-      question: "Za pomoca jakiej komendy wyśrodkujemy tekst w css ?",
+      question: "Za pomoca jakiej komendy wyśrodkujemy tekst w zględem osi X w css ?",
       answers: {
         a: "text-align: center;",
         b: "position: absolute",
@@ -158,7 +158,7 @@
     },
     {
       // question 6
-      question: "Kto Stworzył jądro Linux ?",
+      question: "Kto stworzył jądro Linux ?",
       answers: {
         a: "Bill Gates",
         b: "Steve Jobs",
@@ -168,11 +168,11 @@
     },
     {
       // questions 7
-      question: "Za co odpowiada SSH ?",
+      question: "Literka 'P' w CPU oznacza ?",
       answers: {
-        a: "Jest to bezpieczne połączenie z serverem",
-        b: "Za jego pomoca można wyrzucić pliki na server",
-        c: "Zmieniamy hasło do servera"
+        a: "Proces",
+        b: "Wydajność",
+        c: "Plan"
       },
       correctAnswer: "a"
     },
