@@ -10,7 +10,8 @@ open index.html
 
 This is menu whence we will go to game 
 
-![Zrzut ekranu 2021-05-17 o 23 58 33](https://user-images.githubusercontent.com/76879087/118562011-39dbf700-b76c-11eb-9b50-a9e9fce51137.png)
+<img width="1792" alt="Zrzut ekranu 2021-06-14 o 10 24 08" src="https://user-images.githubusercontent.com/76879087/121862037-bb3a9100-ccfa-11eb-951c-b23265487a00.png">
+
 
 Photo in menu is a gif so if you open this on your PC/MAC
 
